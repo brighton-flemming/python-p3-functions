@@ -13,7 +13,11 @@ def greet_with_default(name="programmer"):
 greet_with_default()
 
 def add(num1, num2):
-    pass
+     sum = int(num1 + num2)
+     return(sum)
+add(45, 55)
+
+
 
 def halve(number):
     pass
