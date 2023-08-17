@@ -20,4 +20,6 @@ add(45, 55)
 
 
 def halve(number):
-    pass
+    div = number/2
+    return(float(div))
+halve(99)
